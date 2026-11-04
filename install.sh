@@ -2,7 +2,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # VirusScan Installer
-# Developer: Curlgit
+# Developer: KSURitam 
 # Version: 5.1
 
 RESET='\033[0m'
@@ -25,7 +25,7 @@ info() {
 clear 2>/dev/null
 
 printf "${GREEN}VirusScan Installer${RESET}\n"
-printf "${YELLOW}Developer: Curlgit${RESET}\n"
+printf "${YELLOW}Developer: KSURitam${RESET}\n"
 echo "----------------------------------------"
 
 FAIL=0
