@@ -70,16 +70,16 @@ Developed with care by **KSURitam**
 
 
 
-Disclaimer
+## Disclaimer
 
-VirusScan is an independent project developed by KSURitam and is not officially affiliated with, endorsed by, or sponsored by VirusTotal.
+**VirusScan is an independent project developed by KSURitam and is not officially affiliated with, endorsed by, or sponsored by VirusTotal**
 
-This tool uses the VirusTotal API to retrieve file analysis reports. Detection results are provided for informational purposes only.
+**This tool uses the VirusTotal API to retrieve file analysis reports. Detection results are provided for informational purposes only**
 
-- A clean scan does not guarantee that a file is safe.
-- Uploaded files may be shared with VirusTotal security partners.
-- Users are responsible for the files they choose to upload.
-- Never upload confidential or sensitive files without understanding the privacy implications.
-- The developer is not responsible for misuse, data loss, or damages resulting from the use of this tool.
+**A clean scan does not guarantee that a file is safe.
+Uploaded files may be shared with VirusTotal security partners.
+Users are responsible for the files they choose to upload.
+Never upload confidential or sensitive files without understanding the privacy implications.
+The developer is not responsible for misuse, data loss, or damages resulting from the use of this tool**
 
-Use VirusScan responsibly and at your own risk.
+**Use VirusScan responsibly and at your own risk**
