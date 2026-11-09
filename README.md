@@ -23,13 +23,9 @@ VirusScan is a lightweight command-line security scanner designed for Android an
 
 ## Credits
 
-- **Developer:** KSURitam
-- **Security Intelligence:** VirusTotal
-- **API Provider:** VirusTotal Public API
-- **Platform:** Termux
-- **Language:** Python
-- **HTTP Library:** Requests
-
+- **Developer:** **KSURitam**
+- **API KEY:** **VirusTotal**
+-  
 Special thanks to the VirusTotal team for providing the threat intelligence API.
 
 ## Get Your API Key
