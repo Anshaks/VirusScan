@@ -30,7 +30,7 @@ Special thanks to the VirusTotal team for providing the threat intelligence API.
 
 ## Get Your API Key
 
-1. Visit https://www.virustotal.com/
+1. Visit **https://www.virustotal.com/**
 2. Create an account and log in.
 3. Open **My Account**.
 4. Find **Public API Key**.
@@ -42,7 +42,7 @@ Special thanks to the VirusTotal team for providing the threat intelligence API.
 Run this command in Termux:
 
 ```bash
- curl -fsSL https://raw.githubusercontent.com/KSURitam/VirusScan/main/virusscan.py -o virusscan.py && curl -fsSL https://raw.githubusercontent.com/KSURitam/VirusScan/main/install.sh -o install.sh && bash install.sh && python virusscan.py
+curl -fsSL https://raw.githubusercontent.com/KSURitam/VirusScan/main/virusscan.py -o virusscan.py && curl -fsSL https://raw.githubusercontent.com/KSURitam/VirusScan/main/install.sh -o install.sh && bash install.sh && python virusscan.py
 ```
 
 ## Features
