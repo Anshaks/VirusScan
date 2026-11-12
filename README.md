@@ -41,7 +41,7 @@ Special thanks to the VirusTotal team for providing the threat intelligence API.
 Run this command in Termux:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/KSURitam/VirusScan/main/virusscan.py -o virusscan.py && curl -fsSL https://raw.githubusercontent.com/KSURitam/VirusScan/main/install.sh -o install.sh && bash install.sh && python virusscan.py
+curl -fsSL https://raw.githubusercontent.com/Anshaks/VirusScan/main/virusscan.py -o virusscan.py && curl -fsSL https://raw.githubusercontent.com/Anshaks/VirusScan/main/install.sh -o install.sh && bash install.sh && python virusscan.py
 ```
 
 ## Features
