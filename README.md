@@ -11,7 +11,7 @@
 
 Version 5.1
 
-**Developer: KSURitam**
+**Developer: KSURitam and Anshaks**
 
 </div>
 
@@ -21,9 +21,8 @@ Version 5.1
 
 VirusScan is a lightweight command-line security scanner designed for Android and Termux. Powered by the VirusTotal API, it helps users analyze files, identify potential malware, check SHA-256 hashes, and review results from multiple antivirus engines through a clean, color-coded interface.
 
-## Credits
-
-- **Developer:** **KSURitam**
+## Creditd
+- **Developer:** **KSURitam and Anshaks**
 - **API KEY:** **VirusTotal**
 -  
 Special thanks to the VirusTotal team for providing the threat intelligence API.
